@@ -29,11 +29,11 @@ jobs:
 
       - run: git status
 
-      # Para as atualizações.
+         # Para as atualizações.
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ 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 }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
 
@@ -43,4 +43,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
