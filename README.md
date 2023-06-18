@@ -24,5 +24,3 @@
 <img align ="center" alt= "html5" src= "https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 <img align ="center" alt= "html5" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img align ="center" alt= "html5" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feelpzs&hide_progress=true)
