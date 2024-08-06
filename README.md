@@ -1,5 +1,6 @@
  <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=5006&pause=1000&color=20C1F8&background=FF758400&random=true&width=435&lines=++Hi!%2C++I'M+Felipe" alt="Typing SVG" /></a> 👨‍💻+👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=5006&pause=1000&color=20C1F8&background=FF758400&random=true&width=435&lines=++Hi!%2C++I'M+Felipe" alt="Typing SVG" /></a>
+  👨‍💻+👋
 </h1>
 
 
@@ -32,6 +33,7 @@
 <img align = "center" alt= "html5" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align ="center" alt= "html5" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img align ="center" alt= "html5" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+the+visit!;" />
-</h1>
+
