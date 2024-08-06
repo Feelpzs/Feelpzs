@@ -1,4 +1,11 @@
-### Hi!,  I'M Felipe  👨‍💻 ✌️
+ <h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=### Hi!,  I'M Felipe  👨‍💻+👋;+me+chamo+Artur!;" />
+</h1>
+
+
+
+
+
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://https://mail.google.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-73b9a822b/)
@@ -25,3 +32,6 @@
 <img align = "center" alt= "html5" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align ="center" alt= "html5" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img align ="center" alt= "html5" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+the+visit!;" />
+</h1>
