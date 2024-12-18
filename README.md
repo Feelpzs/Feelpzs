@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Feelpzs&show_icons=true&theme=tokyonight" alt="Queiroz GitHub stats" />
 </div>
 
-<h2 align="center">Tecnologias que eu uso no meu dia</h2>
+<h2 align="center">Technologies I use in my Day</h2>
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
